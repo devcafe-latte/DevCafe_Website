@@ -24,7 +24,7 @@ Apart from Bootstrap JS components majority of JS is located in /js/front.js. If
 Credits
 ---------
 
-- Botstrap 
+- Bootstrap
 - Font Awesome
 - Google Fonts - Roboto Condensed and Open Sans
 - Heisengberg Media - intro photo
@@ -36,7 +36,7 @@ Changelog
 -----------------------------------------------------------------------------------------
 Version 2.0 - 2019/03/22
 -----------------------------------------------------------------------------------------
-    
+
 - A complete upgrade to Bootstrap to 4 (v 4.3.1)
 - Dropped Google Maps, replaced by free OpenStreetMaps + LeafletJs
 
